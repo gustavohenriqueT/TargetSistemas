@@ -7,7 +7,7 @@ faturamento_estados = {
     'Outros': 19849.53
 }
 
-# Declaração das variáveis para calcular
+# Calculo do faturamento total
 valor_total = sum(faturamento_estados.values())
 
 # Calculo completo do Percentual de cada Estado
