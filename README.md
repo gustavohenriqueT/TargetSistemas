@@ -19,8 +19,14 @@ b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Est
 
 ## Terceiro Desafio - Desenvolvido em Java e Python. 
 Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.
+SP – R$67.836,43
+RJ – R$36.678,66
+MG – R$29.229,88
+ES – R$27.165,48
+Outros – R$19.849,53
  
-5) Escreva um programa que inverta os caracteres de um string.
+## Quarto Desafio - Desensvolvido em Java e Python
+Escreva um programa que inverta os caracteres de um string.
 
 IMPORTANTE:
 a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
