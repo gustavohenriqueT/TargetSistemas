@@ -1,5 +1,6 @@
 # TargetSistemas
 Desafios Target Sistemas
+
 Fontes de estudos: Udemy, Youtube e ChatGTP.
 
 ## Primeiro Desafio - Desenvolvido em Python. 
